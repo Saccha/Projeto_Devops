@@ -1,6 +1,6 @@
 # Projeto_Devops
 
-- Nomes dos Integrantes e seus RAs:
+## Nomes dos Integrantes e seus RAs:
 
 | Nome dos integrantes        | RA dos integrantes  |
 |-----------------------------|---------------------|
@@ -10,4 +10,6 @@
 | Matheus Nunes Moura Pessoa  |  1905156            |
 | Sabrina Reis Hablocher      |  1904458            |
 
- - Escolhas de linguagem e plataforma a serem usadas:
+## Escolhas de linguagem e plataforma a serem usadas:
+- Python
+
