@@ -1,4 +1,4 @@
-# <i>Projeto Devops<i>
+# <b><i>Projeto Devops</i></b>
 
 ## Nome do Projeto: Coffee Chat
 
