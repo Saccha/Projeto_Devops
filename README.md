@@ -1,5 +1,9 @@
 # Projeto_Devops
 
+## Nome do Projeto: Coffee Chat
+
+-----------------------------------------------------------------------
+
 ## Nomes dos Integrantes e seus RAs:
 
 | Nome dos integrantes        | RA dos integrantes  |
