@@ -1,4 +1,4 @@
-<font color="green">Projeto Devops</font>
+# Projeto Devops
 
 ## Nome do Projeto: Coffee Chat
 
