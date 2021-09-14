@@ -14,6 +14,8 @@
 | Matheus Nunes Moura Pessoa  |  1905156            |
 | Sabrina Reis Hablocher      |  1904458            |
 
+-----------------------------------------------------------------------
+
 ## Escolhas de linguagem e plataforma a serem usadas:
 - Python
 - Flask
