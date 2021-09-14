@@ -1,6 +1,6 @@
-<i>Projeto Devops</i>
+# <i>Projeto Devops</i>
 
-## Nome do Projeto: Coffee Chat
+## <b>Nome do Projeto: Coffee Chat</b>
 
 -----------------------------------------------------------------------
 
