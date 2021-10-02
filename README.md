@@ -1,6 +1,4 @@
-# <p align = "center"><i>Projeto Devops</i></p>
-
-##  <p align = "center"><b>Nome do Projeto: WhileTruechat </b></p>
+# <p align = "center"><b>Nome do Projeto: WhileTruechat </b></p>
 
 #  <p align = "center"> Link do Projeto: </p>
 - https://github.com/Saccha/Projeto_Devops/blob/main/README.md
