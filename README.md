@@ -1,4 +1,4 @@
-# <i>Projeto Devops</i>
+# <p align = "center"><i>Projeto Devops</i></p>
 
 ## <b>Nome do Projeto: WhileTruechat </b>
 
