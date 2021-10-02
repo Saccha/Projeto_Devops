@@ -1,6 +1,6 @@
 # <i>Projeto Devops</i>
 
-# ** AC01: **  
+` AC01: `  
 
 ## <b>Nome do Projeto: WhileTruechat </b>
 
