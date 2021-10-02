@@ -1,6 +1,6 @@
 # <p align = "center"><i>Projeto Devops</i></p>
 
-## <b>Nome do Projeto: WhileTruechat </b>
+##  <p align = "center"><b>Nome do Projeto: WhileTruechat </b></p>
 
 # Link do Projeto:
 - https://github.com/Saccha/Projeto_Devops/blob/main/README.md
