@@ -2,7 +2,7 @@
 
 ##  <p align = "center"><b>Nome do Projeto: WhileTruechat </b></p>
 
-# Link do Projeto:
+#  <p align = "center"> Link do Projeto: </p>
 - https://github.com/Saccha/Projeto_Devops/blob/main/README.md
 
 -----------------------------------------------------------------------
