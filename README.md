@@ -1,11 +1,11 @@
 # <p align = "center"><b>Nome do Projeto: WhileTruechat </b></p>
 
 #  <p align = "center"> Link do Projeto: </p>
-<p align = "center"> - https://github.com/Saccha/Projeto_Devops/blob/main/README.md </p>
+<p align = "center">  https://github.com/Saccha/Projeto_Devops/blob/main/README.md </p>
 
 -----------------------------------------------------------------------
 
-## Nomes dos Integrantes e seus RAs:
+## <p align = "center"> Nomes dos Integrantes e seus RAs: </p>
 
 | Nome dos integrantes        | RA dos integrantes  |
 |-----------------------------|---------------------|
