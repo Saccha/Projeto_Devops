@@ -23,7 +23,7 @@
 - HTML
 - CSS
 
-# <p align = "center"> Lista de Tarefas a ser feita no projeto: </p>
+## <p align = "center"> Lista de Tarefas a ser feita no projeto: </p>
 
 - [x] AC01: Definição do Projeto e Formação de Grupo
 
