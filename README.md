@@ -19,4 +19,6 @@
 ## Escolhas de linguagem e plataforma a serem usadas:
 - Python
 - Flask
+- HTML
+- CSS
 
