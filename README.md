@@ -17,13 +17,13 @@
 
 -----------------------------------------------------------------------
 
-## Escolhas de linguagem e plataforma a serem usadas:
+## <p align = "center"> Escolhas de linguagem e plataforma a serem usadas: </p>
 - Python
 - Flask
 - HTML
 - CSS
 
-# Lista de Tarefas a ser feita no projeto:
+# <p align = "center"> Lista de Tarefas a ser feita no projeto: </p>
 
 - [x] AC01: Definição do Projeto e Formação de Grupo
 
