@@ -2,6 +2,9 @@
 
 ## <b>Nome do Projeto: WhileTruechat </b>
 
+# Link do Projeto:
+- https://github.com/Saccha/Projeto_Devops/blob/main/README.md
+
 -----------------------------------------------------------------------
 
 ## Nomes dos Integrantes e seus RAs:
