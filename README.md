@@ -25,6 +25,9 @@
 # Lista de Tarefas a ser feita no projeto:
 
 [x] AC01: Definição do Projeto e Formação de Grupo
+
 [ ] AC02: Front-End
+
 [ ] AC03: Back end com Mock responses sem autenticação de usuários
+
 [ ] AC04: Autenticação de usuários
