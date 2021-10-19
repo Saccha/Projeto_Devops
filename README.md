@@ -29,7 +29,7 @@
 
 - [x] AC01: Definição do Projeto e Formação de Grupo
 
-- [ ] AC02: Front-End
+- [x] AC02: Front-End
 
 - [ ] AC03: Back end com Mock responses sem autenticação de usuários
 
