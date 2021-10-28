@@ -34,6 +34,6 @@
 
 - [x] AC02: Front-End
 
-- [ ] AC03: Back end com Mock responses sem autenticação de usuários
+- [x] AC03: Back end com Mock responses sem autenticação de usuários
 
 - [ ] AC04: Autenticação de usuários
