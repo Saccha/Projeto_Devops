@@ -20,9 +20,11 @@
 ## <p align = "center"> Escolhas de linguagem e plataforma a serem usadas: </p>
 - Python
 - Flask
-- SQLite
+- Boto3
 - HTML
 - CSS
+- Lambda
+- Api Gateway
 
 -----------------------------------------------------------------------
 
