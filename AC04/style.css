@@ -1,0 +1,78 @@
+
+body{
+  background-color :rgb(129, 96, 96);
+}
+h3{
+  text-align: center;
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+td{
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.remetente{
+  background-color: lightcoral;
+  padding: 8px 22px;
+  border-collapse:separate;
+  border-spacing:10px 50px;
+
+}
+
+.destinatario{
+  background-color: lightcoral;
+  padding: 8px 22px;
+  border-collapse:separate;
+  border-spacing:10px 50px;
+}
+.mensagem{
+  background-color: #2b1313;
+  padding: 8px 22px;
+  border-collapse:separate;
+  border-spacing:10px 50px;
+}
+
+
+
+.button{
+  background-color: lightcoral; /* RED */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);     
+}
+
+.tremetente{
+  background-color: lightcoral;
+  padding: 8px 22px;
+  border-collapse:separate;
+  border-spacing:10px 50px;
+
+}
+
+.tdestinatario{
+  background-color: lightcoral;
+  padding: 8px 22px;
+  border-collapse:separate;
+  border-spacing:10px 50px;
+
+}
+
+#campos {
+  text-align: center;
+  
+}
+
+.tabela{
+  align-self: center;
+}
